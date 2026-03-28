@@ -23,7 +23,7 @@ Projeto integrador desenvolvido para praticar JavaScript, consumo de API, manipu
 
 ## 🚀 Como acessar
 
-👉 [Acesse o projeto aqui](https://diegovts.github.io/pokebusca)
+👉 [Acesse o projeto aqui](https://diegovts.github.io/Poke-Busca/)
 
 ---
 
