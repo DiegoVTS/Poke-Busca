@@ -1,4 +1,5 @@
 # PokéBusca 
+> Projeto integrador desenvolvido para praticar JavaScript, consumo de API, manipulação de DOM e async/await.
 
 Buscador de Pokémon desenvolvido com HTML, CSS e JavaScript puro.
 
