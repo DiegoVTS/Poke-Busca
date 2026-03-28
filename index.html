@@ -8,6 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100..900;1,100..900&family=Titan+One&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="src/style.css">
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
     <title>PokéBusca</title>
     
 </head>
@@ -19,14 +20,13 @@
         <div id="grid-card">
             <form action="index.js" id="form-buscar">
                 <label for="name">Nome Pokémom</label>
-                <input type="text" name="name" id="name" placeholder="Escreva Um Nome de Pokémon Existente" >
+                <input type="text" name="name" id="name" placeholder="Nome do Pokémon" >
                 <button type="submit" id="btn">Buscar</button>
                 <p hidden id="erro">POKÉMON NÃO ENCONTRADO, Procure ou Escreva Outro Nome</p>
             </form>
             <section id="pesquisados">
                 <h2>Últimos 5 Pokémons Buscados</h2>
                 <ol id="ultimos5">
-                    
                 </ol>
             </section>
         </div>
